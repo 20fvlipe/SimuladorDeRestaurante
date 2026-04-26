@@ -1,10 +1,7 @@
 import os, time
 os.system("cls")
 
-#creo 2 banderas, 1 para controlar el ciclo de repeticion (menú)
-#y el otro, para saber si tengo alguna venta realizada.
 bandera = True
-
 
 while bandera:
     print("1. Realizar Venta")
